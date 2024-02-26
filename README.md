@@ -1,3 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Olá! 👋
 
 Sou Itallo Minatti, um entusiasta da tecnologia apaixonado por desenvolvimento de software e explorando o vasto mundo da programação.
