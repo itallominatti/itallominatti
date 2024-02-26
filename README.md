@@ -9,5 +9,6 @@ Sou Itallo Minatti, um entusiasta da tecnologia apaixonado por desenvolvimento d
 
 💬 Sinta-se à vontade para me perguntar sobre qualquer coisa relacionada à programação, estou aqui para ajudar no que puder.
 
-📫 Você pode entrar em contato comigo através do meu e-mail [itallominatti.dev@gmail.com] ou me encontrar no LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-minatti-0368691b7/)
+📫 Você pode entrar em contato comigo através do meu e-mail [itallominatti.dev@gmail.com] ou me encontrar no LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-minatti-0368691b7/)
 
