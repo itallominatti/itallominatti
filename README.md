@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallominatti&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itallominatti&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
 - 🔭 Atualmente estou trabalhando no Grupo Moura baterias e em alguns projetos pessoais, buscando aprimorar minhas habilidades em diversas tecnologias.
@@ -13,6 +13,7 @@
 
 
 Tecnologias que utilizo: 
+
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)[![Python](https://img.shields.io/badge/Pytho3776AB?style=fothbadge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
