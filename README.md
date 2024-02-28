@@ -1,6 +1,8 @@
 ### Olá! 👋 Sou Itallo Minatti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-minatti-0368691b7/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallominatti&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itallominatti&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallominatti&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itallominatti&layout=compact)
 
 
 
