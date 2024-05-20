@@ -1,8 +1,8 @@
 ### Olá! 👋 Sou Itallo Minatti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-minatti-0368691b7/)
 
 <div align="center">  
-  <img width="49%" max-height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFSdev&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=DAA520&bg_color=000000" alt="FelipeFSdev github stats" /> 
-  <img width="41%" max-height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFSdev&layout=compact&hide_border=true&title_color=6A5ACD&text_color=DAA520&bg_color=000000" />
+  <img width="49%" max-height="195px" src="https://github-readme-stats.vercel.app/api?username=itallominatti&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=DAA520&bg_color=000000" alt="itallominatti github stats" /> 
+  <img width="41%" max-height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallominatti&layout=compact&hide_border=true&title_color=6A5ACD&text_color=DAA520&bg_color=000000" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=4000&pause=300&color=6A5ACD&background=01C6FF00&center=true&vCenter=true&width=1000&lines=Hey,+there!+My+name+is+Itallo+Minatti!;I'm+25+years+old+and+i'm+from+Brazil;Be+welcome+to+my+github+profile+%3A)](https://git.io/typing-svg)
