@@ -23,6 +23,12 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=itallominatti&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itallominatti/itallominatti/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itallominatti/itallominatti/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itallominatti/itallominatti/output/github-contribution-grid-snake.svg">
+  </picture>
   
  
 
