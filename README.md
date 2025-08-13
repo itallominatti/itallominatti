@@ -11,4 +11,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itallominatti&theme=dracula&column=6&margin-w=15&margin-h=15"/>
 </p>
 
-![Gráfico de contribuições com Pac-Man](https://raw.githubusercontent.com/itallominatti/itallominatti/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itallominatti/itallominatti/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itallominatti/itallominatti/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itallominatti/itallominatti/output/pacman-contribution-graph.svg">
+</picture>
+
