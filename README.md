@@ -4,7 +4,7 @@
 Trabalho com APIs, integrações e ferramentas de infraestrutura — e gosto de resolver
 problemas de operação com CLIs pequenas e bem pensadas.
 
-🔧 **Stack principal:** Go · Python · AWS · React / Next.js · PostgreSQL · Docker
+🔧 **Stack principal:** Go · Python · AWS · Java · Kotlin · PostgreSQL · Docker
 
 ---
 
