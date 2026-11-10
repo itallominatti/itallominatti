@@ -1,7 +1,7 @@
 # Olá, eu sou o Itallo 👋
 
-**Engenheiro de Software** em Recife (PE), focado em back-end com **Go** e **Python** sobre **AWS**.
-Trabalho com APIs, integrações e ferramentas de infraestrutura — e gosto de resolver
+**Engenheiro de Software** em Recife (PE), focado em back-end com **Go**, **Java**, **Kotlin** e **Python** sobre **AWS**.
+Trabalho com APIs, integrações e ferramentas de infraestrutura — e gosto de resolver, 
 problemas de operação com CLIs pequenas e bem pensadas.
 
 🔧 **Stack principal:** Go · Python · AWS · Java · Kotlin · PostgreSQL · Docker
